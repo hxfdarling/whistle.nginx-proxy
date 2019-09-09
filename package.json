@@ -1,0 +1,8 @@
+{
+  "name": "whistle.nginx-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "koa": "^2.8.1"
+  }
+}
